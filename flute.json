@@ -1,0 +1,22 @@
+[
+  {
+    "sequnce": 1,
+    "video_id": "s7jXASBWwwI",
+    "is_paid": false
+  },
+  {
+    "sequnce": 2,
+    "video_id": "s7jXASBWwwI",
+    "is_paid": false
+  },
+  {
+    "sequnce": 4,
+    "video_id": "gg4yQmmDmj4",
+    "is_paid": true
+  },
+  {
+    "sequnce": 4,
+    "video_id": "gg4yQmmDmj4",
+    "is_paid": true
+  }
+]
